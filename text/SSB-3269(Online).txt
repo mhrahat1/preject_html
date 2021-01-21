@@ -1,0 +1,11 @@
+Class 3.....20.01.2021.......
+topic......
+1....Social media branding er jonno user name kivabe diben..
+2....folder create.
+3....definition and function of html, css,  bootstrap,  js/ jq.
+4....file ready kora..
+5....editor..
+6....html template..
+7....definition of content, element, tag and attributes.
+8....content e title element  heading use kora (h1 to h6)
+......Happy Learning
